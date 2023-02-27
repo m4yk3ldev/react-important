@@ -1,5 +1,6 @@
 # React Libraries 2023
-[Twitch Midudev](https://www.twitch.tv/videos/1750792562)
+[Twitch Midudev](https://www.twitch.tv/videos/1750792562)<br>
+[Pagina](https://www.robinwieruch.de/react-libraries/)
 ## Crear proyecto
 
 Client Side: Vite
